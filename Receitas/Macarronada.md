@@ -1,7 +1,7 @@
 #Macarronada TOP!!
 
 ## Ingredientes:
-###(quantidade a gosto)
+### (quantidade a gosto)
 
 Macarrão
 Molho de tomate
