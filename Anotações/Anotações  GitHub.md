@@ -7,3 +7,14 @@ A BitKeeper era uma empresa que armazenava todo o código do kernel do Linux em 
 - suporte robusto a desenvolvimento não linear;
 - totalmente distribuído;
 - eficiência para lidar com grandes projetos como o kernel do Linux;
+
+
+# Comandos básicos do Git Bash
+
+### Comandos 
+
+- **git config** - Esse comando é fundamental para configurar sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada commit.
+- **git init** - O comando irá criar um repositório novo em branco e, a partir daí, será possível armazenar seu código fonte, alterar, salvaguardar alterações etc.
+- **git clone** - Esse comando Git cria uma cópia exata de um repositório já existente.
+- **git add** - Esse comando Git adiciona os arquivos especificados de código ao seu repositório, sejam arquivos novos ou arquivos anteriores que foram alterados.
+- **git commit** - O git commit executa o commit dos arquivos que foram adicionados e cria uma nova revisão com um log. Por outro lado, se você não adicionar nenhum arquivo, o git não fará o commit de nada.
