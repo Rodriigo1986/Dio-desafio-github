@@ -1,4 +1,4 @@
-# Macarronada 
+# Macarronada 🍝
 
 ## Ingredientes:
 ### (quantidade a gosto)
