@@ -3,7 +3,7 @@
 ## Ingredientes:
 ###(quantidade a gosto)
 
-Macarr„o
+Macarr√£o
 Molho de tomate
 Bacon
 Chedar
@@ -11,7 +11,7 @@ Queijo Mussarela
 Agua
 
 ## Modo de preparo
-Cozinhe o macarr„o na agua
+Cozinhe o macarr√£o na agua
 Retire a agua
 Adicione todos os ingredientes na panela(exceto o queijo mussarela)
 cColoque em uma travessa
