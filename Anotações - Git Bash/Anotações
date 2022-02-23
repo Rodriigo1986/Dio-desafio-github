@@ -1,4 +1,6 @@
-## Comandos básicos do Git Bash 
+# Comandos básicos do Git Bash 
+
+### Comandos
 
 - git config - Esse comando é fundamental para configurar sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada commit.
 - git init - O comando irá criar um repositório novo em branco e, a partir daí, será possível armazenar seu código fonte, alterar, salvaguardar alterações etc.
