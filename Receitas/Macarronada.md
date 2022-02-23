@@ -1,4 +1,4 @@
-# Macarronada TOP!!
+# Macarronada 
 
 ## Ingredientes:
 ### (quantidade a gosto)
